@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /order.php
+Disallow: /seo.php
+Disallow: /old/
